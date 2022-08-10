@@ -133,6 +133,8 @@ def preprocess_text(text):
         " grm ": " gram ",
         " grms ": " gram ",
         "litres": "litre",
+        " l ": " litre ",
+        " ls ": " litre ",
         " cls ": " cl ",
         "centilitres": "cl",
         "centiliters": "cl",
