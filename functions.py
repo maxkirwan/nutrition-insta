@@ -117,9 +117,11 @@ def preprocess_text(text):
         "tsps": "teaspoon",
         "pounds": "pound",
         " lb ": " pound ",
+        " lb. ": " pound ",
         " lbs ": " pound ",
         "ounces": "ounce",
         " oz ": " ounce ",
+        " oz. ": " ounce ",
         "cloves": "clove",
         "sprigs": "sprig",
         "pinches": "pinch",
@@ -128,10 +130,10 @@ def preprocess_text(text):
         "grams": "gram",
         " g ": " gram ",
         " gs ": " gram ",
-        " gm ": " gram ",
-        " gms ": " gram ",
+        " gm": " gram",
+        " gms": " gram",
         " grm ": " gram ",
-        " grms ": " gram ",
+        " grms": " gram",
         "litres": "litre",
         " l ": " litre ",
         " ls ": " litre ",
@@ -160,3 +162,38 @@ def preprocess_text(text):
         clean_text = clean_text.replace(measure_original, measure_standardised)
     
     return clean_text
+
+
+
+# Function to return a list of unique ingredients from a post description, using a model titled nlp (needs to be previously defined/loaded)
+def get_unique_ingredients(text):
+    
+    doc = nlp(text)
+    ingredients = []
+    ingredients_singularized = []
+    
+    for entity in doc.ents:
+        if entity.label_ == 'INGREDIENT':
+            ingredients.append(entity.text)
+
+    ingredients = np.unique(ingredients)
+    
+    # Singularizing ingredients using inflect python package
+    p = inflect.engine()
+    for word in ingredients:
+        if p.singular_noun(word):
+            ingredients_singularized.append(p.singular_noun(word))
+        else:
+            ingredients_singularized.append(word)
+            
+    return np.unique(ingredients_singularized)
+
+
+# Function to add unique ingredient list column to a df (which must include preprocessed posts)
+def include_unique_ingredients(df, model):
+    
+    nlp = spacy.load(model)
+    
+    df['unique_ingredients'] = df['description_preprocessed'].apply(get_unique_ingredients)
+    
+    return df
