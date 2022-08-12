@@ -22,6 +22,11 @@ import demoji
 # ---------
 
 
+# Removes any duplicate posts (including carousel posts)
+def remove_duplicates(df)
+    return df.drop_duplicates(subset="postUrl", keep='first')
+
+
 # Creates a language detection SpaCy pipeline
 def get_lang_detect_nlp_pipe():
 
@@ -71,6 +76,13 @@ def preprocess_text(text):
     
     # Removing all emojis
     clean_text = demoji.replace(clean_text)
+
+    # Remove any bullet points or asterixes
+    clean_text = re.sub(r"•","", clean_text)
+    clean_text = re.sub(r"☆","", clean_text)
+    clean_text = re.sub(r"♡","", clean_text)
+    clean_text = re.sub(r"・","", clean_text)
+    clean_text = re.sub(r"*","", clean_text)
     
     
     # Replacing unicode fractions with ascii representations
