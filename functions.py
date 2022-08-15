@@ -23,8 +23,9 @@ import demoji
 
 
 # Removes any duplicate posts (including carousel posts)
-def remove_duplicates(df)
-    return df.drop_duplicates(subset="postUrl", keep='first')
+def remove_duplicates(df):
+    df.drop_duplicates(subset="postUrl", keep='first', inplace=True)
+    return df
 
 
 # Creates a language detection SpaCy pipeline
@@ -82,7 +83,8 @@ def preprocess_text(text):
     clean_text = re.sub(r"☆","", clean_text)
     clean_text = re.sub(r"♡","", clean_text)
     clean_text = re.sub(r"・","", clean_text)
-    clean_text = re.sub(r"*","", clean_text)
+    clean_text = re.sub(r"\*","", clean_text)
+    clean_text = re.sub(r"▢","", clean_text)
     
     
     # Replacing unicode fractions with ascii representations
@@ -122,6 +124,7 @@ def preprocess_text(text):
     measurements = {
         "cups": "cup",
         "tablespoons": "tablespoon",
+        "tbs ": "tablespoon ",
         "tbsp": "tablespoon",
         "tbsps": "tablespoon",
         "teaspoons": "teaspoon",
