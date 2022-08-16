@@ -85,6 +85,9 @@ def preprocess_text(text):
     clean_text = re.sub(r"・","", clean_text)
     clean_text = re.sub(r"\*","", clean_text)
     clean_text = re.sub(r"▢","", clean_text)
+
+    # Remove word joiner uicode character
+    clean_text = re.sub(r"\u2060","", clean_text)
     
     
     # Replacing unicode fractions with ascii representations
