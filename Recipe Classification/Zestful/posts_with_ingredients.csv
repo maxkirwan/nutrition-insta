@@ -564,3 +564,157 @@ coriander - for garnishing
 .
 .
 .",True,"['cooked rice - 1.5 cup ', 'curd - 1 cup ', 'salt - as per taste ', 'mustard seeds - 1 teaspoon ', 'red chillies ', 'urad dal - 1 teaspoon ', 'hing - a pinch ', 'green chilly - 2/3 ', 'curry leaves - 10/15 ', 'coriander - for garnishing ']","[{'error': None, 'raw': 'cooked rice - 1.5 cup ', 'parsed': {'confidence': 0.125422, 'product': None, 'productSizeModifier': None, 'quantity': None, 'unit': None, 'preparationNotes': 'cooked rice - 1.5 cup', 'usda_info': None}}, {'error': None, 'raw': 'curd - 1 cup ', 'parsed': {'confidence': 0.223805, 'product': None, 'productSizeModifier': None, 'quantity': 1.0, 'unit': 'cup', 'preparationNotes': 'curd -', 'usda_info': None}}, {'error': None, 'raw': 'salt - as per taste ', 'parsed': {'confidence': 0.8424142, 'product': 'salt', 'productSizeModifier': None, 'quantity': None, 'unit': None, 'preparationNotes': None, 'usda_info': {'category': 'Spices and Herbs', 'description': 'Salt, table', 'fdcId': '173468', 'matchMethod': 'exact'}}}, {'error': None, 'raw': 'mustard seeds - 1 teaspoon ', 'parsed': {'confidence': 0.8101372, 'product': 'mustard seeds', 'productSizeModifier': None, 'quantity': None, 'unit': 'teaspoon', 'preparationNotes': None, 'usda_info': {'category': 'Spices and Herbs', 'description': 'Spices, mustard seed, ground', 'fdcId': '170929', 'matchMethod': 'exact'}}}, {'error': None, 'raw': 'red chillies ', 'parsed': {'confidence': 0.9930397, 'product': 'red chillies', 'productSizeModifier': None, 'quantity': None, 'unit': None, 'preparationNotes': None, 'usda_info': {'category': 'Vegetables and Vegetable Products', 'description': 'Peppers, hot chili, red, raw', 'fdcId': '170106', 'matchMethod': 'exact'}}}, {'error': None, 'raw': 'urad dal - 1 teaspoon ', 'parsed': {'confidence': 0.33765, 'product': 'urad dal', 'productSizeModifier': None, 'quantity': None, 'unit': 'teaspoon', 'preparationNotes': None, 'usda_info': None}}, {'error': None, 'raw': 'hing - a pinch ', 'parsed': {'confidence': 0.329606, 'product': 'hing', 'productSizeModifier': None, 'quantity': None, 'unit': 'pinch', 'preparationNotes': None, 'usda_info': None}}, {'error': None, 'raw': 'green chilly - 2/3 ', 'parsed': {'confidence': 0.413024, 'product': 'green chilly', 'productSizeModifier': None, 'quantity': None, 'unit': None, 'preparationNotes': None, 'usda_info': None}}, {'error': None, 'raw': 'curry leaves - 10/15 ', 'parsed': {'confidence': 0.68332, 'product': 'curry leaves - 10/15', 'productSizeModifier': None, 'quantity': None, 'unit': None, 'preparationNotes': None, 'usda_info': None}}, {'error': None, 'raw': 'coriander - for garnishing ', 'parsed': {'confidence': 0.9638637999999999, 'product': 'coriander -', 'productSizeModifier': None, 'quantity': None, 'unit': None, 'preparationNotes': None, 'usda_info': {'category': 'Vegetables and Vegetable Products', 'description': 'Coriander (cilantro) leaves, raw', 'fdcId': '169997', 'matchMethod': 'exact'}}}]"
+1670,https://www.instagram.com/p/ChDSaTbr8yT/,https://www.instagram.com/kchy.tv,kchy.tv,Kchy,1,8,2022-08-09T20:00:05.000Z,"Snickers Nice Cream 🥜🍌😍
+
+By @lenahfst 
+
+Ingredients:
+• 200g frozen banana
+• 100g frozen zucchini
+• 35g peanut flour
+• 200g silken tofu
+
+Toppings:
+• almond butter
+• cacao nibs
+• chia seeds
+• soy crispies
+• blackberries
+
+#Kchy #recipe #tasty #food #foodstagram #deliciousfood #amazingfood #foodlove #easyrecipes #foodies #foodgasm #foodblogger #foodie #foodphotography #foodlover #foodbeast #tastyfood #delicious #deliciousness #smoothie #smoothiebowl
+#smoothiebowls",,https://scontent-cdt1-1.cdninstagram.com/v/t51.2885-15/298248582_894988838146669_5647033381893826395_n.jpg?stp=dst-jpg_e15_fr_s1080x1080&_nc_ht=scontent-cdt1-1.cdninstagram.com&_nc_cat=101&_nc_ohc=4soKtatyM3MAX_Llk90&edm=AMKDjl4BAAAA&ccb=7-5&ig_cache_key=MjkwMTI0MzU1NzM2NTkyNzA1OQ%3D%3D.2-ccb7-5&oh=00_AT-eE8E497iybq5mUtvY4mPGF-iL5q2gnJ6HRoMQnsqzdw&oe=62FB7132&_nc_sid=1fe099,2901243557365927059,48573173316,Photo,,2022-08-10T11:43:27.886Z,False,,,,en,0.9999967663901724,"snickers nice cream 
+
+by 
+
+ingredients:
+• 200 gram frozen banana
+• 100 gram frozen zucchini
+• 35 gram peanut flour
+• 200 gram silken tofu
+
+toppings:
+• almond butter
+• cacao nibs
+• chia seeds
+• soy crispies
+• blackberries",True,"['• 200 gram frozen banana', '• 100 gram frozen zucchini', '• 35 gram peanut flour', '• 200 gram silken tofu']","[{'error': None, 'raw': '• 200 gram frozen banana', 'parsed': {'confidence': 0.8373106, 'product': 'frozen banana', 'productSizeModifier': None, 'quantity': 200.0, 'unit': 'gram', 'preparationNotes': None, 'usda_info': {'category': 'Fruits and Fruit Juices', 'description': 'Bananas, raw', 'fdcId': '173944', 'matchMethod': 'closestUnbranded'}}}, {'error': None, 'raw': '• 100 gram frozen zucchini', 'parsed': {'confidence': 0.471702, 'product': 'frozen zucchini', 'productSizeModifier': None, 'quantity': 100.0, 'unit': 'gram', 'preparationNotes': None, 'usda_info': None}}, {'error': None, 'raw': '• 35 gram peanut flour', 'parsed': {'confidence': 0.569126, 'product': 'peanut flour', 'productSizeModifier': None, 'quantity': 35.0, 'unit': 'gram', 'preparationNotes': None, 'usda_info': None}}, {'error': None, 'raw': '• 200 gram silken tofu', 'parsed': {'confidence': 0.273018, 'product': 'silken tofu', 'productSizeModifier': None, 'quantity': 200.0, 'unit': 'gram', 'preparationNotes': None, 'usda_info': None}}]"
+1699,https://www.instagram.com/p/ChDPFWXpKqI/,https://www.instagram.com/hall.eats,hall.eats,M. Hall,5,8,2022-08-09T19:31:00.000Z,"✨Sticky Honey Chicken✨
+
+A super simple, extremely flavorful dinner that takes less than 20 minutes to prepare! Serve along side some rice and broccoli for a complete weeknight meal! 
+
+Ingredients:
+1lb chicken thighs or breast 
+1 garlic clove
+1 tablespoon butter
+1/3 cup honey 
+1/4 cup soy sauce 
+2 tablespoons rice vinegar 
+1 teaspoon chili flakes 
+salt & pepper to taste
+flour for dredging 
+oil for frying 
+scallions & parsley for garnish! 
+
+#instagood #food #foodie #yum #classic #summermeals #chicken #chickenrecipes #homemadefood #stickychicken #fewingredients #easyrecipes #dinnerideas #rice #simplerecipes #delicious #instafoodie #instareels #reels #reelsinstagram #foodreels #foodblogger #deliciousfood",,https://scontent-cdt1-1.cdninstagram.com/v/t51.2885-15/298520995_174756408372718_2862715010948372021_n.jpg?stp=dst-jpg_e35&_nc_ht=scontent-cdt1-1.cdninstagram.com&_nc_cat=110&_nc_ohc=43B0v3vVSFEAX_n2rkG&edm=AMKDjl4BAAAA&ccb=7-5&ig_cache_key=MjkwMTIyODkyMzI3MDc2OTI4OA%3D%3D.2-ccb7-5&oh=00_AT_2nArFoViqnZJz_Ojwg-qMKSLwIco3u_pR36A1mNMWUg&oe=62FAF0CE&_nc_sid=1fe099,2901228923270769288,39668617135,Photo,,2022-08-10T11:43:31.984Z,False,,,,en,0.9999969997063598,"sticky honey chicken
+
+a super simple, extremely flavorful dinner that takes less than 20 minutes to prepare! serve along side some rice and broccoli for a complete weeknight meal! 
+
+ingredients:
+1 pound chicken thighs or breast 
+1 garlic clove
+1 tablespoon butter
+1/3 cup honey 
+1/4 cup soy sauce 
+2 tablespoon rice vinegar 
+1 teaspoon chili flakes 
+salt & pepper to taste
+flour for dredging 
+oil for frying 
+scallions & parsley for garnish!",True,"['1 pound chicken thighs or breast ', '1 garlic clove', '1 tablespoon butter', '1/3 cup honey ', '1/4 cup soy sauce ', '2 tablespoon rice vinegar ', '1 teaspoon chili flakes ', 'salt & pepper to taste', 'flour for dredging ', 'oil for frying ', 'scallions & parsley for garnish!']","[{'error': None, 'raw': '1 pound chicken thighs or breast ', 'parsed': {'confidence': 0.8652151, 'product': 'chicken thighs', 'productSizeModifier': None, 'quantity': 1.0, 'unit': 'pound', 'preparationNotes': 'or breast', 'usda_info': {'category': 'Poultry Products', 'description': 'Chicken, dark meat, thigh, meat and skin, with added solution, raw', 'fdcId': '172863', 'matchMethod': 'exact'}}}, {'error': None, 'raw': '1 garlic clove', 'parsed': {'confidence': 0.9978868, 'product': 'garlic', 'productSizeModifier': None, 'quantity': 1.0, 'unit': 'clove', 'preparationNotes': None, 'usda_info': {'category': None, 'description': 'Garlic, raw', 'fdcId': '787793', 'matchMethod': 'exact'}}}, {'error': None, 'raw': '1 tablespoon butter', 'parsed': {'confidence': 0.9978145, 'product': 'butter', 'productSizeModifier': None, 'quantity': 1.0, 'unit': 'tablespoon', 'preparationNotes': None, 'usda_info': {'category': 'Dairy and Egg Products', 'description': 'Butter, without salt', 'fdcId': '173430', 'matchMethod': 'exact'}}}, {'error': None, 'raw': '1/3 cup honey ', 'parsed': {'confidence': 0.9943402, 'product': 'honey', 'productSizeModifier': None, 'quantity': 0.3333333333333333, 'unit': 'cup', 'preparationNotes': None, 'usda_info': {'category': 'Sweets', 'description': 'Honey', 'fdcId': '169640', 'matchMethod': 'exact'}}}, {'error': None, 'raw': '1/4 cup soy sauce ', 'parsed': {'confidence': 0.9949744, 'product': 'soy sauce', 'productSizeModifier': None, 'quantity': 0.25, 'unit': 'cup', 'preparationNotes': None, 'usda_info': {'category': 'Legumes and Legume Products', 'description': 'Soy sauce made from soy and wheat (shoyu)', 'fdcId': '174277', 'matchMethod': 'exact'}}}, {'error': None, 'raw': '2 tablespoon rice vinegar ', 'parsed': {'confidence': 0.9907795, 'product': 'rice vinegar', 'productSizeModifier': None, 'quantity': 2.0, 'unit': 'tablespoon', 'preparationNotes': None, 'usda_info': {'category': None, 'description': 'RICE VINEGAR', 'fdcId': '492771', 'matchMethod': 'closestBranded'}}}, {'error': None, 'raw': '1 teaspoon chili flakes ', 'parsed': {'confidence': 0.955142, 'product': 'chili flakes', 'productSizeModifier': None, 'quantity': 1.0, 'unit': 'teaspoon', 'preparationNotes': None, 'usda_info': None}}, {'error': None, 'raw': 'salt & pepper to taste', 'parsed': {'confidence': 0.948547, 'product': 'salt & pepper', 'productSizeModifier': None, 'quantity': None, 'unit': None, 'preparationNotes': None, 'usda_info': None}}, {'error': None, 'raw': 'flour for dredging ', 'parsed': {'confidence': 0.9995422, 'product': 'flour', 'productSizeModifier': None, 'quantity': None, 'unit': None, 'preparationNotes': None, 'usda_info': {'category': 'Cereal Grains and Pasta', 'description': 'Wheat flour, white, all-purpose, unenriched', 'fdcId': '169761', 'matchMethod': 'closestUnbranded'}}}, {'error': None, 'raw': 'oil for frying ', 'parsed': {'confidence': 0.9983818, 'product': 'oil', 'productSizeModifier': None, 'quantity': None, 'unit': None, 'preparationNotes': None, 'usda_info': {'category': 'Fats and Oils', 'description': 'Oil, vegetable, soybean, refined', 'fdcId': '172370', 'matchMethod': 'closestUnbranded'}}}, {'error': None, 'raw': 'scallions & parsley for garnish!', 'parsed': {'confidence': 0.777379, 'product': 'scallions & parsley !', 'productSizeModifier': None, 'quantity': None, 'unit': None, 'preparationNotes': None, 'usda_info': None}}]"
+2095,https://www.instagram.com/p/ChD9Iodp0nK/,https://www.instagram.com/empowerfit.hamilton,empowerfit.hamilton,EmpowerFit,1,4,2022-08-10T02:13:24.000Z,"🫕𝗪𝗘𝗟𝗟𝗡𝗘𝗦𝗦 𝗪𝗘𝗗𝗡𝗘𝗦𝗗𝗔𝗬 𝗥𝗘𝗖𝗜𝗣𝗘!!
+
+‼️ 𝗪𝗔𝗥𝗡𝗜𝗡𝗚 - This is 𝘕𝘖𝘛 your 'average' soup recipe!
+
+💚 This recipe was adapted from a recipe featured in the August 'delicious' magazine. Something I LOVE doing, is adapting recipes into a healthy, balanced meal. I adapted this recipe by adding chicken for protein, more veggies and omitting the parmesan to serve, although this is also fine if you choose to add it. 
+
+🍲 💡Healthy food DOES NOT have to be tastless or boring. Remember that recipes can be adapted to become a healthy option. The flavours in this soup were absolutely mouth watering! 
+
+👇
+
+🍗 𝗖𝗵𝗶𝗰𝗸𝗲𝗻, 𝗖𝗮𝗻𝗻𝗲𝗹𝗹𝗶𝗻𝗶 𝗕𝗲𝗮𝗻 𝗮𝗻𝗱 𝗩𝗲𝗴 𝗦𝗼𝘂𝗽
+
+✴️INGREDIENTS:
+1 tbsp olive oil
+1 leek, finely sliced
+1/2 fennel bulb, thinly sliced
+3 garlic cloves, crushed
+1/2 tsp fennel seeds
+6 sprigs oregano, or 1 1/2 tsp dried leaves
+1 parmesan rind (such a genius way of adding flavour without the fat and calories of cheese)
+4 cups chicken or veg stock
+500g chicken breast, cut into large pieces
+400g cannellini beans, drained
+1 zucchini, diced
+2 sticks celery, chopped
+1/2 bunch silverbeet
+
+🍋𝗣𝗮𝗿𝘀𝗹𝗲𝘆, 𝗔𝗹𝗺𝗼𝗻𝗱 𝗮𝗻𝗱 𝗟𝗲𝗺𝗼𝗻 𝗦𝗮𝗹𝘀𝗮 (optional but super delicious and you only need a tsp or two)
+40g almonds, toasted
+1/4 bunch flat leaf parsley
+2 sprigs oregano, or 1/2 tsp dried leaves
+juice of 1/2 lemon
+40mL olive oil
+
+✴️METHOD:
+1️⃣ Heat oil in large saucepan over medium heat. Add leek, fennel, celery, garlic, fennel seeds and oregano and cook, stirring occasionally for 10 minutes until softened and lightly golden.
+
+2️⃣ Season, add parmesan rind, stock and 1 cup water and bring to a simmer. Add chicken pieces and cook for 10 minutes or until chicken is just cooked through.
+
+3️⃣ Remove chicken pieces and allow to cool slightly. Add zucchini, cannelini beans and silverbeet and stir for 3-4 minutes or until zucchini is just softened. Shred chicken, return to saucepan and stir. 
+
+4️⃣ Meanwhile for the salsa, simply blend together all ingredients in thermomix or food processor.
+
+5️⃣ Remove parmesan rind and serve. Top with salsa if using, and fresh, torn parsley leaves. 😋",,https://scontent-cdg2-1.cdninstagram.com/v/t51.2885-15/298522000_1249112465864294_5403951334837173479_n.jpg?stp=dst-jpg_e35&_nc_ht=scontent-cdg2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=Uc34HuHo__YAX8p9NPG&tn=a6t2ShJw7jOYAMrX&edm=AMKDjl4BAAAA&ccb=7-5&ig_cache_key=MjkwMTQzMTQ1ODk5Njg5ODI1MA%3D%3D.2-ccb7-5&oh=00_AT-tIu4nMTJW7C_u8uKOI8BQlvFOrgJeoucbPHudv9Dmsw&oe=62F9B288&_nc_sid=1fe099,2901431458996898250,2918350611,Photo,,2022-08-10T11:44:42.472Z,False,,,,en,0.9999964310151512,"𝗪𝗘𝗟𝗟𝗡𝗘𝗦𝗦 𝗪𝗘𝗗𝗡𝗘𝗦𝗗𝗔𝗬 𝗥𝗘𝗖𝗜𝗣𝗘!!
+
+ 𝗪𝗔𝗥𝗡𝗜𝗡𝗚 - this is 𝘕𝘖𝘛 your 'average' soup recipe!
+
+ this recipe was adapted from a recipe featured in the august 'delicious' magazine. something i love doing, is adapting recipes into a healthy, balanced meal. i adapted this recipe by adding chicken for protein, more veggies and omitting the parmesan to serve, although this is also fine if you choose to add it. 
+
+ healthy food does not have to be tastless or boring. remember that recipes can be adapted to become a healthy option. the flavours in this soup were absolutely mouth watering! 
+
+
+
+ 𝗖𝗵𝗶𝗰𝗸𝗲𝗻, 𝗖𝗮𝗻𝗻𝗲𝗹𝗹𝗶𝗻𝗶 𝗕𝗲𝗮𝗻 𝗮𝗻𝗱 𝗩𝗲𝗴 𝗦𝗼𝘂𝗽
+
+ingredients:
+1 tablespoon olive oil
+1 leek, finely sliced
+1/2 fennel bulb, thinly sliced
+3 garlic clove, crushed
+1/2 teaspoon fennel seeds
+6 sprig oregano, or 1 1 /2 teaspoon dried leaves
+1 parmesan rind (such a genius way of adding flavour without the fat and calories of cheese)
+4 cup chicken or veg stock
+500 gram chicken breast, cut into large piece
+400 gram cannellini beans, drained
+1 zucchini, diced
+2 stick celery, chopped
+1/2 bunch silverbeet
+
+𝗣𝗮𝗿𝘀𝗹𝗲𝘆, 𝗔𝗹𝗺𝗼𝗻𝗱 𝗮𝗻𝗱 𝗟𝗲𝗺𝗼𝗻 𝗦𝗮𝗹𝘀𝗮 (optional but super delicious and you only need a teaspoon or two)
+40 gram almonds, toasted
+1/4 bunch flat leaf parsley
+2 sprig oregano, or 1/2 teaspoon dried leaves
+juice of 1/2 lemon
+40 ml olive oil
+
+method:
+ heat oil in large saucepan over medium heat. add leek, fennel, celery, garlic, fennel seeds and oregano and cook, stirring occasionally for 10 minutes until softened and lightly golden.
+
+ season, add parmesan rind, stock and 1 cup water and bring to a simmer. add chicken piece and cook for 10 minutes or until chicken is just cooked through.
+
+ remove chicken piece and allow to cool slightly. add zucchini, cannelini beans and silverbeet and stir for 3-4 minutes or until zucchini is just softened. shred chicken, return to saucepan and stir. 
+
+ meanwhile for the salsa, simply blend together all ingredients in thermomix or food processor.
+
+ remove parmesan rind and serve. top with salsa if using, and fresh, torn parsley leaves.",True,"['1 tablespoon olive oil', '1 leek, finely sliced', '1/2 fennel bulb, thinly sliced', '3 garlic clove, crushed', '1/2 teaspoon fennel seeds', '6 sprig oregano, or 1 1 /2 teaspoon dried leaves', '1 parmesan rind (such a genius way of adding flavour without the fat and calories of cheese)', '4 cup chicken or veg stock', '500 gram chicken breast, cut into large piece', '400 gram cannellini beans, drained', '1 zucchini, diced', '2 stick celery, chopped', '1/2 bunch silverbeet']","[{'error': None, 'raw': '1 tablespoon olive oil', 'parsed': {'confidence': 0.9962479, 'product': 'olive oil', 'productSizeModifier': None, 'quantity': 1.0, 'unit': 'tablespoon', 'preparationNotes': None, 'usda_info': {'category': 'Fats and Oils', 'description': 'Oil, olive, salad or cooking', 'fdcId': '171413', 'matchMethod': 'exact'}}}, {'error': None, 'raw': '1 leek, finely sliced', 'parsed': {'confidence': 0.9917551, 'product': 'leek', 'productSizeModifier': None, 'quantity': 1.0, 'unit': None, 'preparationNotes': 'finely sliced', 'usda_info': {'category': 'Vegetables and Vegetable Products', 'description': 'Leeks, (bulb and lower leaf-portion), raw', 'fdcId': '169246', 'matchMethod': 'exact'}}}, {'error': None, 'raw': '1/2 fennel bulb, thinly sliced', 'parsed': {'confidence': 0.8894611, 'product': 'fennel', 'productSizeModifier': None, 'quantity': 0.5, 'unit': 'bulb', 'preparationNotes': 'thinly sliced', 'usda_info': {'category': 'Vegetables and Vegetable Products', 'description': 'Fennel, bulb, raw', 'fdcId': '169385', 'matchMethod': 'exact'}}}, {'error': None, 'raw': '3 garlic clove, crushed', 'parsed': {'confidence': 0.9628927, 'product': 'garlic', 'productSizeModifier': None, 'quantity': 3.0, 'unit': 'clove', 'preparationNotes': 'crushed', 'usda_info': {'category': None, 'description': 'Garlic, raw', 'fdcId': '787793', 'matchMethod': 'exact'}}}, {'error': None, 'raw': '1/2 teaspoon fennel seeds', 'parsed': {'confidence': 0.9918175, 'product': 'fennel seeds', 'productSizeModifier': None, 'quantity': 0.5, 'unit': 'teaspoon', 'preparationNotes': None, 'usda_info': {'category': 'Spices and Herbs', 'description': 'Spices, fennel seed', 'fdcId': '171323', 'matchMethod': 'exact'}}}, {'error': None, 'raw': '6 sprig oregano, or 1 1 /2 teaspoon dried leaves', 'parsed': {'confidence': 0.8819113, 'product': 'oregano', 'productSizeModifier': None, 'quantity': 6.0, 'unit': 'sprig', 'preparationNotes': None, 'usda_info': {'category': 'Spices and Herbs', 'description': 'Spices, oregano, dried', 'fdcId': '171328', 'matchMethod': 'exact'}}}, {'error': None, 'raw': '1 parmesan rind (such a genius way of adding flavour without the fat and calories of cheese)', 'parsed': {'confidence': 0.769672, 'product': 'parmesan rind', 'productSizeModifier': None, 'quantity': 1.0, 'unit': None, 'preparationNotes': None, 'usda_info': None}}, {'error': None, 'raw': '4 cup chicken or veg stock', 'parsed': {'confidence': 0.671383, 'product': 'stock', 'productSizeModifier': None, 'quantity': 4.0, 'unit': 'cup', 'preparationNotes': 'chicken or veg', 'usda_info': None}}, {'error': None, 'raw': '500 gram chicken breast, cut into large piece', 'parsed': {'confidence': 0.9255679, 'product': 'chicken breast', 'productSizeModifier': None, 'quantity': 500.0, 'unit': 'gram', 'preparationNotes': 'cut into large piece', 'usda_info': {'category': 'Poultry Products', 'description': 'Chicken, broilers or fryers, breast, meat and skin, raw', 'fdcId': '171474', 'matchMethod': 'exact'}}}, {'error': None, 'raw': '400 gram cannellini beans, drained', 'parsed': {'confidence': 0.8703027999999999, 'product': 'cannellini beans', 'productSizeModifier': None, 'quantity': 400.0, 'unit': 'gram', 'preparationNotes': 'drained', 'usda_info': {'category': None, 'description': ""BUSH'S Cannellini Beans  15.5 oz"", 'fdcId': '608542', 'matchMethod': 'closestBranded'}}}, {'error': None, 'raw': '1 zucchini, diced', 'parsed': {'confidence': 0.9787975, 'product': 'zucchini', 'productSizeModifier': None, 'quantity': 1.0, 'unit': None, 'preparationNotes': 'diced', 'usda_info': {'category': 'Vegetables and Vegetable Products', 'description': 'Squash, summer, zucchini, includes skin, raw', 'fdcId': '169291', 'matchMethod': 'exact'}}}, {'error': None, 'raw': '2 stick celery, chopped', 'parsed': {'confidence': 0.9577525, 'product': 'celery', 'productSizeModifier': None, 'quantity': 2.0, 'unit': 'stick', 'preparationNotes': 'chopped', 'usda_info': {'category': 'Vegetables and Vegetable Products', 'description': 'Celery, raw', 'fdcId': '169988', 'matchMethod': 'exact'}}}, {'error': None, 'raw': '1/2 bunch silverbeet', 'parsed': {'confidence': 0.982338, 'product': 'silverbeet', 'productSizeModifier': None, 'quantity': 0.5, 'unit': 'bunch', 'preparationNotes': None, 'usda_info': None}}]"
