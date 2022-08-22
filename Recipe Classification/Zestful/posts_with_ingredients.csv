@@ -718,3 +718,146 @@ method:
  meanwhile for the salsa, simply blend together all ingredients in thermomix or food processor.
 
  remove parmesan rind and serve. top with salsa if using, and fresh, torn parsley leaves.",True,"['1 tablespoon olive oil', '1 leek, finely sliced', '1/2 fennel bulb, thinly sliced', '3 garlic clove, crushed', '1/2 teaspoon fennel seeds', '6 sprig oregano, or 1 1 /2 teaspoon dried leaves', '1 parmesan rind (such a genius way of adding flavour without the fat and calories of cheese)', '4 cup chicken or veg stock', '500 gram chicken breast, cut into large piece', '400 gram cannellini beans, drained', '1 zucchini, diced', '2 stick celery, chopped', '1/2 bunch silverbeet']","[{'error': None, 'raw': '1 tablespoon olive oil', 'parsed': {'confidence': 0.9962479, 'product': 'olive oil', 'productSizeModifier': None, 'quantity': 1.0, 'unit': 'tablespoon', 'preparationNotes': None, 'usda_info': {'category': 'Fats and Oils', 'description': 'Oil, olive, salad or cooking', 'fdcId': '171413', 'matchMethod': 'exact'}}}, {'error': None, 'raw': '1 leek, finely sliced', 'parsed': {'confidence': 0.9917551, 'product': 'leek', 'productSizeModifier': None, 'quantity': 1.0, 'unit': None, 'preparationNotes': 'finely sliced', 'usda_info': {'category': 'Vegetables and Vegetable Products', 'description': 'Leeks, (bulb and lower leaf-portion), raw', 'fdcId': '169246', 'matchMethod': 'exact'}}}, {'error': None, 'raw': '1/2 fennel bulb, thinly sliced', 'parsed': {'confidence': 0.8894611, 'product': 'fennel', 'productSizeModifier': None, 'quantity': 0.5, 'unit': 'bulb', 'preparationNotes': 'thinly sliced', 'usda_info': {'category': 'Vegetables and Vegetable Products', 'description': 'Fennel, bulb, raw', 'fdcId': '169385', 'matchMethod': 'exact'}}}, {'error': None, 'raw': '3 garlic clove, crushed', 'parsed': {'confidence': 0.9628927, 'product': 'garlic', 'productSizeModifier': None, 'quantity': 3.0, 'unit': 'clove', 'preparationNotes': 'crushed', 'usda_info': {'category': None, 'description': 'Garlic, raw', 'fdcId': '787793', 'matchMethod': 'exact'}}}, {'error': None, 'raw': '1/2 teaspoon fennel seeds', 'parsed': {'confidence': 0.9918175, 'product': 'fennel seeds', 'productSizeModifier': None, 'quantity': 0.5, 'unit': 'teaspoon', 'preparationNotes': None, 'usda_info': {'category': 'Spices and Herbs', 'description': 'Spices, fennel seed', 'fdcId': '171323', 'matchMethod': 'exact'}}}, {'error': None, 'raw': '6 sprig oregano, or 1 1 /2 teaspoon dried leaves', 'parsed': {'confidence': 0.8819113, 'product': 'oregano', 'productSizeModifier': None, 'quantity': 6.0, 'unit': 'sprig', 'preparationNotes': None, 'usda_info': {'category': 'Spices and Herbs', 'description': 'Spices, oregano, dried', 'fdcId': '171328', 'matchMethod': 'exact'}}}, {'error': None, 'raw': '1 parmesan rind (such a genius way of adding flavour without the fat and calories of cheese)', 'parsed': {'confidence': 0.769672, 'product': 'parmesan rind', 'productSizeModifier': None, 'quantity': 1.0, 'unit': None, 'preparationNotes': None, 'usda_info': None}}, {'error': None, 'raw': '4 cup chicken or veg stock', 'parsed': {'confidence': 0.671383, 'product': 'stock', 'productSizeModifier': None, 'quantity': 4.0, 'unit': 'cup', 'preparationNotes': 'chicken or veg', 'usda_info': None}}, {'error': None, 'raw': '500 gram chicken breast, cut into large piece', 'parsed': {'confidence': 0.9255679, 'product': 'chicken breast', 'productSizeModifier': None, 'quantity': 500.0, 'unit': 'gram', 'preparationNotes': 'cut into large piece', 'usda_info': {'category': 'Poultry Products', 'description': 'Chicken, broilers or fryers, breast, meat and skin, raw', 'fdcId': '171474', 'matchMethod': 'exact'}}}, {'error': None, 'raw': '400 gram cannellini beans, drained', 'parsed': {'confidence': 0.8703027999999999, 'product': 'cannellini beans', 'productSizeModifier': None, 'quantity': 400.0, 'unit': 'gram', 'preparationNotes': 'drained', 'usda_info': {'category': None, 'description': ""BUSH'S Cannellini Beans  15.5 oz"", 'fdcId': '608542', 'matchMethod': 'closestBranded'}}}, {'error': None, 'raw': '1 zucchini, diced', 'parsed': {'confidence': 0.9787975, 'product': 'zucchini', 'productSizeModifier': None, 'quantity': 1.0, 'unit': None, 'preparationNotes': 'diced', 'usda_info': {'category': 'Vegetables and Vegetable Products', 'description': 'Squash, summer, zucchini, includes skin, raw', 'fdcId': '169291', 'matchMethod': 'exact'}}}, {'error': None, 'raw': '2 stick celery, chopped', 'parsed': {'confidence': 0.9577525, 'product': 'celery', 'productSizeModifier': None, 'quantity': 2.0, 'unit': 'stick', 'preparationNotes': 'chopped', 'usda_info': {'category': 'Vegetables and Vegetable Products', 'description': 'Celery, raw', 'fdcId': '169988', 'matchMethod': 'exact'}}}, {'error': None, 'raw': '1/2 bunch silverbeet', 'parsed': {'confidence': 0.982338, 'product': 'silverbeet', 'productSizeModifier': None, 'quantity': 0.5, 'unit': 'bunch', 'preparationNotes': None, 'usda_info': None}}]"
+4873,https://www.instagram.com/p/ChAO6KcLugc/,https://www.instagram.com/tanyahutchinsonhealth,tanyahutchinsonhealth,Tanya Hutchinson,1,8,2022-08-08T15:31:45.000Z,"I love the convenience and ease of meals like this. Be sure to screen shot or save this recipe to make you life healthier and easier! These are super to pack in a cooler and take down on the beach or to the lake! 
+
+Cheeseburger Mason Jar Salad
+
+4 servings 
+Ingredients:
+• ¼ tsp ground black pepper
+• ½ cup thinly sliced cucumber
+• 4, quart-sized mason jars
+• 1¼ lb. 90% lean ground beef
+• 6 tbsp lemon juice
+• 8 cups chopped leaf lettuce
+• 4 oz. reduced-fat, shredded cheddar cheese
+• ¼ tsp salt, divided
+• 2 scallions, chopped
+• 1 cup diced fresh tomatoes
+• ¼ cup water
+• ¼ cup white vinegar
+• 1 tbsp yellow mustard
+
+Directions: 
+
+1. Heat up a non-stick skillet over medium-high heat. Spray pan with non-stick spray.
+
+2. Add ground beef and brown all sides, breaking up any clumps; season with salt and pepper. Drain and allow to cool.
+
+3. Bring vinegar, water, and a pinch of salt to a boil. Pour liquid over cucumbers and set aside to make pickles. Drain the juice when ready to serve.
+
+4. Whisk together the mustard and lemon juice to make a vinaigrette.
+
+5. For 1 portion, fill a quart-sized mason jar with 1½ tablespoons of lemon mustard vinaigrette, ¼ cup of tomatoes, 4 ounces cooked ground beef, 2 tablespoons of pickles, 2 cups lettuce, 1 ounce of shredded cheese, and ¼ of the scallions. 
+
+For our clients on program, this breaks down to:
+1 lean - 3 greens - 0 healthy fats - 3 condiments (per serving) 
+
+#leanandgreen #leanandgreenrecipes #healthylifestyle #masonjars",,https://scontent-cdt1-1.cdninstagram.com/v/t51.2885-15/297851353_394109779487146_6617128259352551368_n.jpg?stp=dst-jpg_e35&_nc_ht=scontent-cdt1-1.cdninstagram.com&_nc_cat=110&_nc_ohc=PEX3ZEOZlOgAX8h4Rak&edm=AMKDjl4BAAAA&ccb=7-5&ig_cache_key=MjkwMDM4MzcyOTYxNzY1OTkzMg%3D%3D.2-ccb7-5&oh=00_AT_Gpl1TgPzO-gryNKtua5r4Yjv6vwlT7Xsh-4F1PJ5MNg&oe=62FB4BF1&_nc_sid=1fe099,2900383729617659932,668619998,Photo,,2022-08-10T11:51:08.922Z,False,,,,en,0.9999971748382732,"i love the convenience and ease of meals like this. be sure to screen shot or save this recipe to make you life healthier and easier! these are super to pack in a cooler and take down on the beach or to the lake! 
+
+cheeseburger mason jar salad
+
+4 servings 
+ingredients:
+• 1/4 teaspoon ground black pepper
+• 1/2 cup thinly sliced cucumber
+• 4 , quart-sized mason jars
+• 11/4 pound 90 % lean ground beef
+• 6 tablespoon lemon juice
+• 8 cup chopped leaf lettuce
+• 4 ounce reduced-fat, shredded cheddar cheese
+• 1/4 teaspoon salt, divided
+• 2 scallions, chopped
+• 1 cup diced fresh tomatoes
+• 1/4 cup water
+• 1/4 cup white vinegar
+• 1 tablespoon yellow mustard
+
+directions: 
+
+1 . heat up a non-stick skillet over medium-high heat. spray pan with non-stick spray.
+
+2 . add ground beef and brown all sides, breaking up any clumps; season with salt and pepper. drain and allow to cool.
+
+3 . bring vinegar, water, and a pinch of salt to a boil. pour liquid over cucumbers and set aside to make pickles. drain the juice when ready to serve.
+
+4 . whisk together the mustard and lemon juice to make a vinaigrette.
+
+5 . for 1 portion, fill a quart-sized mason jar with 11/2 tablespoon of lemon mustard vinaigrette, 1/4 cup of tomatoes, 4 ounce cooked ground beef, 2 tablespoon of pickles, 2 cup lettuce, 1 ounce of shredded cheese, and 1/4 of the scallions. 
+
+for our clients on program, this breaks down to:
+1 lean - 3 greens - 0 healthy fats - 3 condiments (per serving)",True,"['• 1/4 teaspoon ground black pepper', '• 1/2 cup thinly sliced cucumber', '• 4 , quart-sized mason jars', '• 11/4 pound 90 % lean ground beef', '• 6 tablespoon lemon juice', '• 8 cup chopped leaf lettuce', '• 4 ounce reduced-fat, shredded cheddar cheese', '• 1/4 teaspoon salt, divided', '• 2 scallions, chopped', '• 1 cup diced fresh tomatoes', '• 1/4 cup water', '• 1/4 cup white vinegar', '• 1 tablespoon yellow mustard']","[{'error': None, 'raw': '• 1/4 teaspoon ground black pepper', 'parsed': {'confidence': 0.53228, 'product': 'ground black pepper', 'productSizeModifier': None, 'quantity': 0.25, 'unit': 'teaspoon', 'preparationNotes': None, 'usda_info': None}}, {'error': None, 'raw': '• 1/2 cup thinly sliced cucumber', 'parsed': {'confidence': 0.8978248, 'product': 'cucumber', 'productSizeModifier': None, 'quantity': 0.5, 'unit': 'cup', 'preparationNotes': 'thinly sliced', 'usda_info': {'category': 'Vegetables and Vegetable Products', 'description': 'Cucumber, with peel, raw', 'fdcId': '168409', 'matchMethod': 'exact'}}}, {'error': None, 'raw': '• 4 , quart-sized mason jars', 'parsed': {'confidence': 0.089726, 'product': '• jars', 'productSizeModifier': None, 'quantity': None, 'unit': None, 'preparationNotes': '4, quart-sized mason', 'usda_info': None}}, {'error': None, 'raw': '• 11/4 pound 90 % lean ground beef', 'parsed': {'confidence': 0.166407, 'product': '90 % lean ground beef', 'productSizeModifier': None, 'quantity': 2.75, 'unit': 'pound', 'preparationNotes': None, 'usda_info': None}}, {'error': None, 'raw': '• 6 tablespoon lemon juice', 'parsed': {'confidence': 0.9054994, 'product': 'lemon juice', 'productSizeModifier': None, 'quantity': 6.0, 'unit': 'tablespoon', 'preparationNotes': None, 'usda_info': {'category': 'Fruits and Fruit Juices', 'description': 'Lemon juice, raw', 'fdcId': '167747', 'matchMethod': 'exact'}}}, {'error': None, 'raw': '• 8 cup chopped leaf lettuce', 'parsed': {'confidence': 0.8371896999999999, 'product': 'lettuce', 'productSizeModifier': None, 'quantity': 8.0, 'unit': 'cup', 'preparationNotes': 'chopped leaf', 'usda_info': {'category': 'Vegetables and Vegetable Products', 'description': 'Lettuce, iceberg (includes crisphead types), raw', 'fdcId': '169248', 'matchMethod': 'exact'}}}, {'error': None, 'raw': '• 4 ounce reduced-fat, shredded cheddar cheese', 'parsed': {'confidence': 0.278642, 'product': 'reduced-fat cheddar cheese', 'productSizeModifier': None, 'quantity': 4.0, 'unit': 'ounce', 'preparationNotes': 'shredded', 'usda_info': None}}, {'error': None, 'raw': '• 1/4 teaspoon salt, divided', 'parsed': {'confidence': 0.8970514, 'product': 'salt', 'productSizeModifier': None, 'quantity': 0.25, 'unit': 'teaspoon', 'preparationNotes': 'divided', 'usda_info': {'category': 'Spices and Herbs', 'description': 'Salt, table', 'fdcId': '173468', 'matchMethod': 'exact'}}}, {'error': None, 'raw': '• 2 scallions, chopped', 'parsed': {'confidence': 0.8005549, 'product': 'scallions', 'productSizeModifier': None, 'quantity': 2.0, 'unit': None, 'preparationNotes': 'chopped', 'usda_info': {'category': 'Vegetables and Vegetable Products', 'description': 'Onions, spring or scallions (includes tops and bulb), raw', 'fdcId': '170005', 'matchMethod': 'exact'}}}, {'error': None, 'raw': '• 1 cup diced fresh tomatoes', 'parsed': {'confidence': 0.464051, 'product': 'fresh tomatoes', 'productSizeModifier': None, 'quantity': 1.0, 'unit': 'cup', 'preparationNotes': 'diced', 'usda_info': None}}, {'error': None, 'raw': '• 1/4 cup water', 'parsed': {'confidence': 0.9192481, 'product': 'water', 'productSizeModifier': None, 'quantity': 0.25, 'unit': 'cup', 'preparationNotes': None, 'usda_info': {'category': 'Beverages', 'description': 'Beverages, water, tap, drinking', 'fdcId': '173647', 'matchMethod': 'exact'}}}, {'error': None, 'raw': '• 1/4 cup white vinegar', 'parsed': {'confidence': 0.9147847, 'product': 'white vinegar', 'productSizeModifier': None, 'quantity': 0.25, 'unit': 'cup', 'preparationNotes': None, 'usda_info': {'category': 'Spices and Herbs', 'description': 'Vinegar, distilled', 'fdcId': '172237', 'matchMethod': 'exact'}}}, {'error': None, 'raw': '• 1 tablespoon yellow mustard', 'parsed': {'confidence': 0.8212318, 'product': 'yellow mustard', 'productSizeModifier': None, 'quantity': 1.0, 'unit': 'tablespoon', 'preparationNotes': None, 'usda_info': {'category': 'Spices and Herbs', 'description': 'Mustard, prepared, yellow', 'fdcId': '172234', 'matchMethod': 'exact'}}}]"
+41,https://www.instagram.com/p/ChHC8rsIxPL/,https://www.instagram.com/georgiahwfit,georgiahwfit,george 🌞,0,10,2022-08-11T07:01:55.000Z,"carrot cake pancakes 🥞🥕 
+
+ingredients: 
+• 100g oats 
+• 1 grated carrot 
+• 200g yogurt 
+• 1 tsp baking powder 
+• 1/2 tsp cinnamon
+• 1/2 tsp vanilla extract 
+• 1 tbsp honey 
+• splash of milk (if you use thick yogurt) 
+
+blend all the ingredients together, without the carrot then stir in the grated carrot 
+
+fry on a medium heat on the hob and enjoy! 
+
+i topped these with banana, carrot, yogurt, raisins, desiccated coconut and syrup 
+
+🤍🌈 
+
+#oatpancakes #pancakes #breakfast #breakfastideas #intuitiveeating #breakfastpancakes #oats #oatpancakes #foodie #pancakeslover #edrecovery #carrotcake #mealinspo #breakfastideas #oatmeal #pancakestack #oatmealpancakes  #pancakesforbreakfast #recipeoftheday #chooserecovery #foodisfuel #food #pancakeday #antidiet #oatsforbreakfast #antidietculture #foodblogger #breakfast #carrotcakeoats",,https://scontent-cdg2-1.cdninstagram.com/v/t51.2885-15/298410695_792750135071013_8404451397489205150_n.jpg?stp=dst-jpg_e35&_nc_ht=scontent-cdg2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=AsmoZi4vr3gAX9ETSj9&edm=AMKDjl4BAAAA&ccb=7-5&ig_cache_key=MjkwMjMwMTQ1MTAzNjU5NTE0Nw%3D%3D.2-ccb7-5&oh=00_AT-JstBF_RAOqW-nWiSAwMOTPThUuq4U-aqw6q6wIViqBA&oe=62FC2A25&_nc_sid=1fe099,2902301451036595147,45967849359,Photo,,2022-08-11T08:08:44.602Z,False,,,,en,0.99999682839838,"carrot cake pancakes 
+
+ingredients: 
+• 100 gram oats 
+• 1 grated carrot 
+• 200 gram yogurt 
+• 1 teaspoon baking powder 
+• 1/2 teaspoon cinnamon
+• 1/2 teaspoon vanilla extract 
+• 1 tablespoon honey 
+• splash of milk (if you use thick yogurt) 
+
+blend all the ingredients together, without the carrot then stir in the grated carrot 
+
+fry on a medium heat on the hob and enjoy! 
+
+i topped these with banana, carrot, yogurt, raisins, desiccated coconut and syrup",True,"['• 100 gram oats ', '• 1 grated carrot ', '• 200 gram yogurt ', '• 1 teaspoon baking powder ', '• 1/2 teaspoon cinnamon', '• 1/2 teaspoon vanilla extract ', '• 1 tablespoon honey ', '• splash of milk (if you use thick yogurt) ']","[{'error': None, 'raw': '• 100 gram oats ', 'parsed': {'confidence': 0.8634147999999999, 'product': 'oats', 'productSizeModifier': None, 'quantity': 100.0, 'unit': 'gram', 'preparationNotes': None, 'usda_info': {'category': 'Breakfast Cereals', 'description': 'Cereals, oats, regular and quick, not fortified, dry', 'fdcId': '173904', 'matchMethod': 'exact'}}}, {'error': None, 'raw': '• 1 grated carrot ', 'parsed': {'confidence': 0.8418513999999999, 'product': 'carrot', 'productSizeModifier': None, 'quantity': 1.0, 'unit': None, 'preparationNotes': 'grated', 'usda_info': {'category': 'Vegetables and Vegetable Products', 'description': 'Carrots, raw', 'fdcId': '170393', 'matchMethod': 'exact'}}}, {'error': None, 'raw': '• 200 gram yogurt ', 'parsed': {'confidence': 0.8177688999999999, 'product': 'yogurt', 'productSizeModifier': None, 'quantity': 200.0, 'unit': 'gram', 'preparationNotes': None, 'usda_info': {'category': 'Dairy and Egg Products', 'description': 'Yogurt, plain, whole milk', 'fdcId': '171284', 'matchMethod': 'closestUnbranded'}}}, {'error': None, 'raw': '• 1 teaspoon baking powder ', 'parsed': {'confidence': 0.9078172, 'product': 'baking powder', 'productSizeModifier': None, 'quantity': 1.0, 'unit': 'teaspoon', 'preparationNotes': None, 'usda_info': {'category': 'Baked Products', 'description': 'Leavening agents, baking powder, double-acting, sodium aluminum sulfate', 'fdcId': '172803', 'matchMethod': 'exact'}}}, {'error': None, 'raw': '• 1/2 teaspoon cinnamon', 'parsed': {'confidence': 0.933979, 'product': 'cinnamon', 'productSizeModifier': None, 'quantity': 0.5, 'unit': 'teaspoon', 'preparationNotes': None, 'usda_info': {'category': 'Spices and Herbs', 'description': 'Spices, cinnamon, ground', 'fdcId': '171320', 'matchMethod': 'exact'}}}, {'error': None, 'raw': '• 1/2 teaspoon vanilla extract ', 'parsed': {'confidence': 0.9326475999999999, 'product': 'vanilla extract', 'productSizeModifier': None, 'quantity': 0.5, 'unit': 'teaspoon', 'preparationNotes': None, 'usda_info': {'category': 'Spices and Herbs', 'description': 'Vanilla extract', 'fdcId': '173471', 'matchMethod': 'exact'}}}, {'error': None, 'raw': '• 1 tablespoon honey ', 'parsed': {'confidence': 0.8676013, 'product': 'honey', 'productSizeModifier': None, 'quantity': 1.0, 'unit': 'tablespoon', 'preparationNotes': None, 'usda_info': {'category': 'Sweets', 'description': 'Honey', 'fdcId': '169640', 'matchMethod': 'exact'}}}, {'error': None, 'raw': '• splash of milk (if you use thick yogurt) ', 'parsed': {'confidence': 0.7653268, 'product': 'milk', 'productSizeModifier': None, 'quantity': None, 'unit': None, 'preparationNotes': 'if you use thick yogurt', 'usda_info': {'category': 'Dairy and Egg Products', 'description': 'Milk, fluid, 1% fat, without added vitamin A and vitamin D', 'fdcId': '173441', 'matchMethod': 'closestUnbranded'}}}]"
+83,https://www.instagram.com/p/ChGDqlhPhfE/,https://www.instagram.com/sideofsolovy,sideofsolovy,S O L O V Y  K I T C H E N,1,14,2022-08-10T21:48:57.000Z,"FIT INTO YOUR BIKINI TAHINI
+Ingredients: 
+1/2 cup tahini
+Juice of 1/2 lemon
+1 tbsp of olive oil
+cold water
+Salt and Pepper 
+Dried Parsley
+
+Romaine
+Tomatoes
+Persian cucumber 
+Pine nuts 
+Sliced Almonds 
+
+Directions:
+Finely chop all veggies for the salad. The key to great lettuce is a thin chop. Bunch the leaves together tightly and chop!! Make sure you pat dry after rinsing or it will get soggy. 
+
+For the dressing: combine tahini, olive oil, and lemon juice. Stir! It will be thick. Slowly pour small amounts of very cold water till the tahini thins out while constantly stirring with a spoon or fork. Keep adding water till you get the consistency you desire. Then add in your parsley, salt, and pepper. Pour on top of your salad and enjoy.",,https://scontent-cdg2-1.cdninstagram.com/v/t51.2885-15/298573797_742694816814611_365642461778951989_n.jpg?stp=dst-jpg_e35&_nc_ht=scontent-cdg2-1.cdninstagram.com&_nc_cat=111&_nc_ohc=u9FsdY6kCQUAX8JbvQN&edm=AMKDjl4BAAAA&ccb=7-5&ig_cache_key=MjkwMjAyMzEyNDY3NTIwNDEyNw%3D%3D.2-ccb7-5&oh=00_AT-DnirNaaRXoGcvuciW9pvZMYtLu8rPbW4jmWLy_aVXQg&oe=62FB53BA&_nc_sid=1fe099,2902023130530584516,45201230193,Carousel,,2022-08-11T08:08:47.684Z,True,2.0,,,en,0.9999961665771436,"fit into your bikini tahini
+ingredients: 
+1/2 cup tahini
+juice of 1/2 lemon
+1 tablespoon of olive oil
+cold water
+salt and pepper 
+dried parsley
+
+romaine
+tomatoes
+persian cucumber 
+pine nuts 
+sliced almonds 
+
+directions:
+finely chop all veggies for the salad. the key to great lettuce is a thin chop. bunch the leaves together tightly and chop!! make sure you pat dry after rinsing or it will get soggy. 
+
+for the dressing: combine tahini, olive oil, and lemon juice. stir! it will be thick. slowly pour small amounts of very cold water till the tahini thins out while constantly stirring with a spoon or fork. keep adding water till you get the consistency you desire. then add in your parsley, salt, and pepper. pour on top of your salad and enjoy.",True,"['1/2 cup tahini', 'juice of 1/2 lemon', '1 tablespoon of olive oil', 'cold water', 'salt and pepper ', 'dried parsley']","[{'error': None, 'raw': '1/2 cup tahini', 'parsed': {'confidence': 0.9928551999999999, 'product': 'tahini', 'productSizeModifier': None, 'quantity': 0.5, 'unit': 'cup', 'preparationNotes': None, 'usda_info': {'category': None, 'description': 'Tahini', 'fdcId': '784465', 'matchMethod': 'exact'}}}, {'error': None, 'raw': 'juice of 1/2 lemon', 'parsed': {'confidence': 0.8872507, 'product': 'lemon', 'productSizeModifier': None, 'quantity': 0.5, 'unit': None, 'preparationNotes': 'juice of', 'usda_info': {'category': 'Fruits and Fruit Juices', 'description': 'Lemons, raw, without peel', 'fdcId': '167746', 'matchMethod': 'exact'}}}, {'error': None, 'raw': '1 tablespoon of olive oil', 'parsed': {'confidence': 0.9861712, 'product': 'olive oil', 'productSizeModifier': None, 'quantity': 1.0, 'unit': 'tablespoon', 'preparationNotes': None, 'usda_info': {'category': 'Fats and Oils', 'description': 'Oil, olive, salad or cooking', 'fdcId': '171413', 'matchMethod': 'exact'}}}, {'error': None, 'raw': 'cold water', 'parsed': {'confidence': 0.8913112, 'product': 'water', 'productSizeModifier': None, 'quantity': None, 'unit': None, 'preparationNotes': 'cold', 'usda_info': {'category': 'Beverages', 'description': 'Beverages, water, tap, drinking', 'fdcId': '173647', 'matchMethod': 'exact'}}}, {'error': None, 'raw': 'salt and pepper ', 'parsed': {'confidence': 0.972211, 'product': 'salt and pepper', 'productSizeModifier': None, 'quantity': None, 'unit': None, 'preparationNotes': None, 'usda_info': None}}, {'error': None, 'raw': 'dried parsley', 'parsed': {'confidence': 0.886048, 'product': 'parsley', 'productSizeModifier': None, 'quantity': None, 'unit': None, 'preparationNotes': 'dried', 'usda_info': {'category': 'Vegetables and Vegetable Products', 'description': 'Parsley, fresh', 'fdcId': '170416', 'matchMethod': 'exact'}}}]"
